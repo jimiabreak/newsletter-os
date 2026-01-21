@@ -94,7 +94,7 @@ The plugin ships with a curated list of popular newsletters and LinkedIn creator
 
 ## Made By
 
-[Jimi Filipovski](https://jimifiliposvki.com) — Designer turned founder, writing about the journey at [Designer to Founder](https://designertofounder.com).
+[Jimi Filipovski](https://jimifiliposvki.co) — Designer turned founder, writing about the journey at [Designer to Founder]([https://www.jimisnewsletter.com/]).
 
 I built this because I needed it. Researching content manually took hours. Now it takes a minute.
 
