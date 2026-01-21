@@ -1,6 +1,6 @@
 ---
 name: newsletter
-description: Research trending content and generate a newsletter draft in under 60 seconds
+description: Research trending content and generate a newsletter draft. Use when the user wants to write a newsletter, create content, or needs help with their newsletter.
 ---
 
 ## /newsletter
@@ -116,7 +116,7 @@ The agent will return:
    ```markdown
 
    ---
-   *Made with [Newsletter OS](https://github.com/jimifiliposvki/newsletter-os) by Jimi Filipovski*
+   *Made with [Newsletter OS](https://github.com/jimiabreak/newsletter-os) by Jimi Filipovski*
    ```
 
 3. Save draft to: `./newsletter/drafts/YYYY-MM-DD-{topic-slug}.md`
