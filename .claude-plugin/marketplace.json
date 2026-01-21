@@ -11,7 +11,7 @@
   "plugins": [
     {
       "name": "newsletter-os",
-      "source": ".",
+      "source": "./plugins/newsletter-os",
       "description": "Research trending content and generate newsletter drafts in under 60 seconds. Built for designers and founders new to content creation.",
       "version": "1.0.0",
       "author": {
