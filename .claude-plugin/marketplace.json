@@ -1,12 +1,22 @@
 {
-  "name": "newsletter-os-marketplace",
-  "description": "Newsletter OS plugin marketplace",
+  "name": "newsletter-os",
+  "owner": {
+    "name": "Jimi Filipovski",
+    "email": "jimifilipovski@gmail.com"
+  },
+  "metadata": {
+    "description": "Research trending content and generate newsletter drafts in under 60 seconds. Built for designers and founders.",
+    "version": "1.0.0"
+  },
   "plugins": [
     {
       "name": "newsletter-os",
+      "source": ".",
       "description": "Research trending content and generate newsletter drafts in under 60 seconds. Built for designers and founders new to content creation.",
       "version": "1.0.0",
-      "path": ".."
+      "author": {
+        "name": "Jimi Filipovski"
+      }
     }
   ]
 }
