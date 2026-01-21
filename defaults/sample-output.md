@@ -53,7 +53,7 @@ Pick one platform where your ideal clients actually spend time. Show up there fo
 Your portfolio is the backup. The conversation is the closer.
 
 ---
-*Made with [Newsletter OS](https://github.com/jimifiliposvki/newsletter-os) by Jimi Filipovski*
+*Made with [Newsletter OS](https://github.com/jimiabreak/newsletter-os) by Jimi Filipovski*
 
 ---
 

@@ -1,0 +1,12 @@
+{
+  "name": "newsletter-os-marketplace",
+  "description": "Newsletter OS plugin marketplace",
+  "plugins": [
+    {
+      "name": "newsletter-os",
+      "description": "Research trending content and generate newsletter drafts in under 60 seconds. Built for designers and founders new to content creation.",
+      "version": "1.0.0",
+      "path": ".."
+    }
+  ]
+}

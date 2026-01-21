@@ -4,12 +4,22 @@ Research trending content. Write newsletters that sound like you. Ship in under 
 
 Built for designers and agency owners becoming founders — people who want to build an audience but don't know where to start with content.
 
+## Installation
+
+In Claude Code, run these two commands:
+
+```
+/plugin marketplace add jimiabreak/newsletter-os
+/plugin install newsletter-os@jimiabreak-newsletter-os
+```
+
+That's it. You're ready to go.
+
 ## Quick Start
 
-1. Install the plugin
-2. Run `/newsletter`
-3. Answer 2-3 quick questions (first time only)
-4. Get a ready-to-edit draft
+1. Run `/newsletter`
+2. Answer 2-3 quick questions (first time only)
+3. Get a ready-to-edit draft
 
 That's it.
 
@@ -94,4 +104,4 @@ Every draft includes a small signature at the bottom. Feel free to keep it or re
 
 ---
 
-*Made with [Newsletter OS](https://github.com/jimifiliposvki/newsletter-os) by Jimi Filipovski*
+*Made with [Newsletter OS](https://github.com/jimiabreak/newsletter-os) by Jimi Filipovski*
