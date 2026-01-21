@@ -1,0 +1,66 @@
+{
+  "description": "Curated starter list of newsletters and LinkedIn creators for designers and founders. Add your own sources to personalize.",
+  "newsletters": [
+    {
+      "url": "https://www.lennysnewsletter.com/",
+      "name": "Lenny's Newsletter",
+      "focus": "Product management, growth, startup building"
+    },
+    {
+      "url": "https://www.densediscovery.com/",
+      "name": "Dense Discovery",
+      "focus": "Design, technology, culture, indie creators"
+    },
+    {
+      "url": "https://every.to/",
+      "name": "Every",
+      "focus": "AI for builders, productivity, startup ops"
+    }
+  ],
+  "linkedinCreators": [
+    {
+      "profileUrl": "https://www.linkedin.com/in/justinwelsh/",
+      "name": "Justin Welsh",
+      "focus": "Solopreneurship, audience growth, LinkedIn strategy"
+    },
+    {
+      "profileUrl": "https://www.linkedin.com/in/gregisenberg/",
+      "name": "Greg Isenberg",
+      "focus": "Community businesses, startup ideas, product"
+    },
+    {
+      "profileUrl": "https://www.linkedin.com/in/lennyrachitsky/",
+      "name": "Lenny Rachitsky",
+      "focus": "Product management, growth, startup building"
+    },
+    {
+      "profileUrl": "https://www.linkedin.com/in/mattgray1/",
+      "name": "Matt Gray",
+      "focus": "Personal branding, audience systems, content growth"
+    },
+    {
+      "profileUrl": "https://www.linkedin.com/in/tobiasvanschneider/",
+      "name": "Tobias van Schneider",
+      "focus": "Design entrepreneurship, brand, independent creative work"
+    }
+  ],
+  "settings": {
+    "defaultTimeframeDays": 14,
+    "minEngagement": 100,
+    "maxPostsPerCreator": 5,
+    "topicTags": [
+      "design",
+      "founder",
+      "solopreneur",
+      "AI",
+      "product",
+      "career",
+      "audience",
+      "creator",
+      "indie",
+      "micro-business",
+      "agency",
+      "freelance"
+    ]
+  }
+}

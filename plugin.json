@@ -1,0 +1,37 @@
+{
+  "name": "newsletter-os",
+  "version": "1.0.0",
+  "description": "Research trending content and generate newsletter drafts in under 60 seconds. Built for designers and founders new to content creation.",
+  "author": {
+    "name": "Jimi Filipovski",
+    "url": "https://jimifiliposvki.com",
+    "twitter": "@jimifiliposvki"
+  },
+  "repository": "https://github.com/jimifiliposvki/newsletter-os",
+  "license": "MIT",
+  "keywords": [
+    "newsletter",
+    "content-creation",
+    "writing",
+    "research",
+    "linkedin",
+    "founder",
+    "designer"
+  ],
+  "commands": [
+    {
+      "name": "newsletter",
+      "description": "Research and write a newsletter draft"
+    }
+  ],
+  "agents": [
+    {
+      "name": "content-researcher",
+      "description": "Researches newsletters and LinkedIn for trending content"
+    },
+    {
+      "name": "newsletter-writer",
+      "description": "Writes drafts using research and voice profile"
+    }
+  ]
+}
