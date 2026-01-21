@@ -3,7 +3,7 @@ name: newsletter
 description: Research trending content and generate a newsletter draft. Use when the user wants to write a newsletter, create content, or needs help with their newsletter.
 ---
 
-## /newsletter
+## /newsletter-os:newsletter
 
 Creates a newsletter draft by researching trending content from newsletters and LinkedIn creators, then writing in your voice.
 
@@ -11,7 +11,7 @@ Creates a newsletter draft by researching trending content from newsletters and 
 
 Just run:
 ```
-/newsletter
+/newsletter-os:newsletter
 ```
 
 First time? You'll answer 2-3 quick questions. After that, you get a draft every time.
@@ -140,19 +140,19 @@ The agent will return:
 
 **Research only:**
 ```
-/newsletter --research-only
+/newsletter-os:newsletter --research-only
 ```
 Runs research phase and saves report, but skips writing. Useful when you want to review trends before committing to a topic.
 
 **Skip research:**
 ```
-/newsletter --skip-research
+/newsletter-os:newsletter --skip-research
 ```
 Skips research and writes from the most recent research file. Only works if research exists and is less than 7 days old. Useful for writing multiple drafts from the same research.
 
 **Specific topic:**
 ```
-/newsletter --topic "your specific topic"
+/newsletter-os:newsletter --topic "your specific topic"
 ```
 Focuses the research and writing on a specific topic you have in mind.
 

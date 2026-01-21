@@ -13,11 +13,11 @@ In Claude Code, run these two commands:
 /plugin install newsletter-os@jimiabreak-newsletter-os
 ```
 
-That's it. You're ready to go.
+Then **restart Claude Code** to load the plugin.
 
 ## Quick Start
 
-1. Run `/newsletter`
+1. Run `/newsletter-os:newsletter`
 2. Answer 2-3 quick questions (first time only)
 3. Get a ready-to-edit draft
 
@@ -34,7 +34,7 @@ That's it.
 ## The Command
 
 ```
-/newsletter
+/newsletter-os:newsletter
 ```
 
 On first run, you'll answer a few quick questions:
@@ -42,14 +42,14 @@ On first run, you'll answer a few quick questions:
 - Who's your target audience?
 - Any newsletters you admire? (optional)
 
-After that, just run `/newsletter` and get a draft.
+After that, just run `/newsletter-os:newsletter` and get a draft.
 
 ### Optional Flags
 
 ```
-/newsletter --research-only       # Just run research, skip writing
-/newsletter --skip-research       # Write from most recent research
-/newsletter --topic "your topic"  # Focus on a specific topic
+/newsletter-os:newsletter --research-only       # Just run research, skip writing
+/newsletter-os:newsletter --skip-research       # Write from most recent research
+/newsletter-os:newsletter --topic "your topic"  # Focus on a specific topic
 ```
 
 ## What You Get
@@ -94,7 +94,7 @@ The plugin ships with a curated list of popular newsletters and LinkedIn creator
 
 ## Made By
 
-[Jimi Filipovski](https://jimifiliposvki.co) — Designer turned founder, writing about the journey at [Designer to Founder]([https://www.jimisnewsletter.com/]).
+[Jimi Filipovski](https://jimifiliposvki.co) — Designer turned founder, writing about the journey at [Designer to Founder](https://www.jimisnewsletter.com/).
 
 I built this because I needed it. Researching content manually took hours. Now it takes a minute.
 
